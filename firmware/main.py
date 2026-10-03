@@ -134,7 +134,7 @@ encoder_handler.map = [
 # Keymap
 keyboard.keymap = [
     #layer 0
-    [KC.COPY, KC.PASTE, KC.REDO, KC.UNDO],
+    [KC.COPY, KC.PASTE, KC.UNDO, KC.REDO],
 
     #layer 1 - (I already have a stero sound system so no need for volume wheel)
     [KC.LCTL(KC.F), KC.RWIN(KC.V), KC.RWIN(KC.E), KC.RWIN(KC.LSFT(KC.S))], #CTRL + F, clipboard, File explorer, Screenshots
