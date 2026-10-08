@@ -13,6 +13,9 @@ The name is a work in progress I know haha. This is my macropad, a small custom 
 ---
 ## PCB:
 The PCB (Printed Circuit Board) was created using KiCad. Awesome open source software.
+You can open the PCB here:
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/Krupamc/keypad_2026/tree/main/PCB)
+
 
 ### Schematic: 
 <img width="1448" height="846" alt="image" src="https://github.com/user-attachments/assets/77350930-4a07-4100-afd7-55d89742bf7f" />
