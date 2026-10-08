@@ -1,5 +1,5 @@
 # My Linux-looking Macropad
-The name is a work in progress I know haha. This is my macropad, a small custom shortcut pad with several layers of shortcuts that are changed through the rotary encoder. Different LEDs light up and the OLED with update with the current layer and appropriate image.
+The name is a work in progress I know haha. This is my macropad, a small custom shortcut pad with several layers of shortcuts that are changed through the rotary encoder. Different LEDs light up and the OLED with update with the current layer and appropriate image. I created this in order to increase my productivity and overall workflow of my desk.
 ---
 
 ## Features:
@@ -26,10 +26,10 @@ Very cool looking PCB. I added as much silkscreen I could to really sell the ter
 ## CAD:
 <img width="1032" height="1037" alt="image" src="https://github.com/user-attachments/assets/d59b9d4a-7e73-44c5-a8b3-a325aa96bc55" />
 I created a case in Fusion. Excuse how it is not very good/original as it is my first time doing CAD before. I have two parts: the bottom and top case. 
-#### Bottom Case:
+### Bottom Case:
 The bottom case is a box with standoffs to hold (on the top-right, and bottom-left) the PCB. M3x16mm screws go through the screw holes on the bottom through the standoffs. The bottom case also has a single foot that has a 40° angle for one inch. (same as my current keyboard to be consistant) The foot has small circle indents for rubber feet in future or hot glue. There is also a USB-C cutout for the microcontroller 
 <img width="771" height="881" alt="image" src="https://github.com/user-attachments/assets/69445ee5-ca5e-429f-9118-72f7b1b41fb6" />
-#### Top Case:  
+### Top Case:  
 This section has extrusions for heat inserts to go (for the screws mentioned before) as well as holes for the OLED, LEDs, keys, and the rotary encoder.
 <img width="1405" height="773" alt="image" src="https://github.com/user-attachments/assets/2f2f0d04-59ad-47f6-98e5-54af34663eba" />
 
