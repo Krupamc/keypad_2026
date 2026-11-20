@@ -39,7 +39,9 @@ pixels.fill((0, 0, 0))
 
 
 # OLED Setup
-i2c = busio.I2C(scl = board.D5, sda = board.D4)
+#i2c = busio.I2C(scl = board.D5, sda = board.D4)
+# Flip the SCL and SDA based on our disoplay
+i2c = busio.I2C(scl = board.D4, sda = board.D5)
 display_bus = displayio.I2CDisplay(i2c, device_address=0x3c) # Change if different adress
 
 W = 128
